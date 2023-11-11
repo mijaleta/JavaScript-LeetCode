@@ -12,3 +12,4 @@ To explore and run the solutions locally, follow these steps:
    git clone https://github.com/mijaleta/JavaScript-LeetCode.git
 
 #### Enjoy coding!!
+![mg](https://github.com/mijaleta/JavaScript-LeetCode/assets/101978426/6b1b6c38-c999-400f-bb0a-3f53c41c9e71)
